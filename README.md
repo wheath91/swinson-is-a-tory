@@ -1,4 +1,4 @@
-#Swinson is a Tory
+# Swinson is a Tory
 
 This was a website born out of my web scraper for house of commons division voting data (ParlyParlour) written in Python. I intend to create a fully fledged MP comparison tool out of this, it was not originally intended for one MP. However, given an election was on the horizon I felt it prudent to inform people on a particular member's voting record.
 
