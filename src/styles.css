@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+hr.crapPaddingSolution {
+  height: 4px;
+  visibility: hidden;
+}
+
+p.FAQ {
+  text-align: left;
+}
